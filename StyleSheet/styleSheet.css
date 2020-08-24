@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #008ae6;
+  padding: 10px;
+  color: #fff;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+li {
+  float: left;
+  margin-left: 100px;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+}
+
+li a:hover {
+  background-color: #111;
+  text-decoration: none;
+  color: #fff;
+}
+
+
+.navbarheading {
+  background-color: #008ae6;
+  height: 200px;
+  width: 100%;
+  margin: 0;
+  padding: 300px 0;
+  color: #fff;
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+.navbar{
+  position: static;
+  top: 0;
+}
+
+.aboutMeText {
+  padding: 10px 70px;
+  background-color: #fff;
+  margin: 3% 7%;
+}
+
+.mailToLink {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.8;
+  color: #fff;
+  text-decoration: none;
+}
+
+.cardImg {
+  max-width: 200px;
+  max-height: 200px;
+  margin: auto;
+}
+.cardImg:hover{
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.cardSpacing {
+  margin: 20px 0;
+}
+
+.cardTitelText {
+  color: black;
+  background-color: #fff;
+}
+
+.CompTIACardText {
+  color: black;
+  background-color: #fff;
+}
+
+.no-color {
+  background-color: #fff;
+  text-align: center;
+  padding: 100px 100px;
+}
+
+.color {
+  background-color: #008ae6;
+  padding: 100px 100px;
+  color: #fff;
+  text-align: center;
+}
+
+.ContactMesection {
+  margin: 30px 0;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.footer-color {
+  background-color: #008ae6;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 0;
+  padding: 100px;
+}
+
+.fonticon {
+  margin: 20px;
+  color: #fff;
+}
+
+.fonticon:hover {
+  font-size: 3rem;
+}
